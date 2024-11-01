@@ -1,5 +1,5 @@
 package internal
 
-func ReadAndCatagoriseCSV() {
+func ReadAndCategoriseCSV(file string) {
 
 }
